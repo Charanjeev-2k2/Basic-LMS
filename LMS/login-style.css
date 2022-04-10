@@ -1,0 +1,12 @@
+.login
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+#login-button
+{
+    background-color: #04AA6D;
+}
+
